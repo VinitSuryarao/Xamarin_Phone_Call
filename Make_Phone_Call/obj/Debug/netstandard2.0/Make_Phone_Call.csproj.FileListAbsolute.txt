@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\bin\Debug\netstandard2.0\Make_Phone_Call.deps.json
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\bin\Debug\netstandard2.0\Make_Phone_Call.dll
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\bin\Debug\netstandard2.0\ref\Make_Phone_Call.dll
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\bin\Debug\netstandard2.0\Make_Phone_Call.pdb
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\Make_Phone_Call.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\Make_Phone_Call.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\Make_Phone_Call.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\Make_Phone_Call.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\Make_Phone_Call.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\Make_Phone_Call.dll
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\ref\Make_Phone_Call.dll
+E:\Study\Code\Xamarin\Make_Phone_Call\Make_Phone_Call\obj\Debug\netstandard2.0\Make_Phone_Call.pdb
